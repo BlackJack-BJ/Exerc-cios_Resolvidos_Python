@@ -1,1 +1,1 @@
-# Exerc-cios_Resolvidos_Python
+# Exercicios_Resolvidos_Python
